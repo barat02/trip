@@ -79,6 +79,7 @@ body {
     font-size: 42px;
     line-height: 51px;
     letter-spacing: -0.025em;
+    margin-left: -150px;
 
     color: #FFFFFF;
 
@@ -89,6 +90,7 @@ body {
     font-size: 42px;
     line-height: 51px;
     letter-spacing: -0.025em;
+    margin-left: -150px;
 
     color: #FFFFFF;
 
@@ -101,6 +103,7 @@ body {
     font-size: 42px;
     line-height: 51px;
     letter-spacing: -0.025em;
+    margin-left: -150px;
 
     color: #FFFFFF;
 
@@ -126,26 +129,123 @@ body {
 }
 
 
-.items2{
+.img1{
     display: flex;
     justify-content: center;
     width: 90%;
     height: 600px;
     padding: 20px;
+    margin-left: -340px;
     
     
 }
 
 
-
-.items3{
+.img2{
     display: flex;
     justify-content: center;
     width: 90%;
     height: 600px;
     padding: 20px;
+    margin-top: -638px;
+    margin-left: 320px;
+}
+
+
+
+.img3{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    height: 600px;
+    padding: 20px;
+    margin-left: -340px;
     margin-top: 20px;
-}   
+
+
+}
+
+
+
+.img4{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    height: 600px;
+    padding: 20px;
+    margin-left: 320px;
+    margin-top: -638px;
+}
+
+
+
    
 
 
+.bridge{
+   margin-top: -95px;
+   margin-left: 40px;
+   color: #FFFFFF;
+   font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 51px;
+    letter-spacing: -0.025em;
+
+
+
+
+}
+
+
+.mountains{
+    margin-top: -95px;
+    margin-left: 40px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 51px;
+    letter-spacing: -0.025em;
+
+    color: #FFFFFF;
+
+}
+
+
+.Paragliding{
+    margin-top: -95px;
+    margin-left: 40px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 51px;
+    letter-spacing: -0.025em;
+
+    color: #FFFFFF;
+    
+
+}
+
+
+
+
+
+.air{
+ 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 51px;
+    letter-spacing: -0.025em;
+
+    color: #FFFFFF;
+    margin-top: -95px;
+    margin-left: 40px;
+
+
+
+}
